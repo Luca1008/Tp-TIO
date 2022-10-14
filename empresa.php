@@ -12,6 +12,13 @@
    include "header.html";
   ?>
   
+<h1> Acerca de la Empresa</h1>
+<h2>Quienes somos</h2>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. At aliquid ipsum magni quas eaque veritatis, nemo aliquam fuga quod qui nostrum laudantium a voluptas, illum recusandae eveniet. Nulla, voluptate iste?</p>
+
+
+
+
 
 
   <?php
