@@ -33,6 +33,9 @@
           <li class="nav-item">
             <a class="nav-link active" aria-current="page" href="about.html">ABOUT</a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="personal.php">PERSONAL</a>
+          </li>
         </ul>
       </div>
     </div>
