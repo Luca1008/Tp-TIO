@@ -10,7 +10,11 @@ require_once "templates/header.php";
     <p>Federico Eriue<p>
     <p>Peuan Muese<p>
     <p>Nicolas Enre<p>
+    <p>Enzo Eriue<p>
+    <p>Juan Murtese<p>
+    <p>Iñaky feseas<p>
 </div>
+
 <?php
 require_once "templates/footer.php";
 ?>
