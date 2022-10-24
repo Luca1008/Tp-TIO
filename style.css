@@ -27,3 +27,29 @@ body {
     padding: 20px;
     text-align: center;
 }
+
+
+
+/* contacto */
+.iconoredes {
+    width: 30px;
+    height: 30px;
+    margin: 0px;
+    padding-right: 5px;
+}
+
+li {
+    list-style: none;
+}
+
+
+.contacto {
+    font-family: 'Basic', sans-serif;
+    font-size: 20px;
+}
+
+.redes {
+    display: flex;
+    align-items: center;
+    margin: 8px 2px;
+}
