@@ -27,8 +27,24 @@ body {
     padding: 20px;
     text-align: center;
 }
+#navbarNav{
+    justify-content: space-between;
+}
+.nav-buttons{
+    padding: 0;
+    position: relative;
+    margin: 0;
+}
 
-
+.login{
+    margin: 50px;
+}
+.sign-up-page .card{
+    cursor: default;
+}
+.sign-up-page .btn, .login .btn{
+    width: 100%;
+}
 
 /* contacto */
 .iconoredes {
