@@ -1,12 +1,14 @@
 
 
-<footer class="footer mt-auto container py-3 my-4">
+<footer class="footer mt-auto container py-3">
     <ul class="nav justify-content-center border-bottom pb-3 mb-3">
-        <li class="nav-item"><a href="index.html" class="nav-link px-2 text-muted">Inicio</a></li>
-        <li class="nav-item"><a href="empresas.html" class="nav-link px-2 text-muted">Empresas</a></li>
-        <li class="nav-item"><a href="sucursales.html" class="nav-link px-2 text-muted">Sucursales</a></li>
-        <li class="nav-item"><a href="contacto.html" class="nav-link px-2 text-muted">Contactos</a></li>
-        <li class="nav-item"><a href="about.html" class="nav-link px-2 text-muted">About</a></li>
+        <li class="nav-item"><a href="index.php" class="nav-link px-2 text-muted">Inicio</a></li>
+        <li class="nav-item"><a href="empresas.php" class="nav-link px-2 text-muted">Empresas</a></li>
+        <li class="nav-item"><a href="sucursales.php" class="nav-link px-2 text-muted">Sucursales</a></li>
+        <li class="nav-item"><a href="contacto.php" class="nav-link px-2 text-muted">Contactos</a></li>
+        <li class="nav-item"><a href="about.php" class="nav-link px-2 text-muted">About</a></li>
+        <li class="nav-item"><a href="personal.php" class="nav-link px-2 text-muted">Personal</a></li>
+        <li class="nav-item"><a href="proyect.php" class="nav-link px-2 text-muted">Proyectos</a></li>
     </ul>
     <p class="text-center text-muted">© 2022 Fabrica de Construccion</p>
 </footer>
