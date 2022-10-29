@@ -9,6 +9,8 @@
     <title>Fabrica De Construccion</title>
 </head>
 <?php include  "templates/header.php" ?>
-  
+<div class="container">
+  <h1>Estas son las empresas que nos apoyan en nuestro proyectos:</h1>
+</div>
 <?php include  "templates/footer.php" ?> 
 </html>
