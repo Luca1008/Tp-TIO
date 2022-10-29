@@ -18,6 +18,10 @@
         <h2>onii-chan</h2>
         <p>Las mejores lolis para que nuestro trabajadores se sientan comodos a la hora de trabajar</p>
     </article>
+    <article>
+        <h2>Mejor vivo que muerto</h2>
+        <p>Nuestra aseguradora para demostrar q nos "importa" la vida de nuestros empleados</p>
+    </article>
 
 
 <?php include  "templates/footer.php" ?>
