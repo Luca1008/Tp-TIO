@@ -1,5 +1,5 @@
 
-<?php include  "header.html" ?>
+<?php include  "templates/header.php" ?>
     <main>
         <h1>Nuestros proyectos</h1>
         <article class="artProyect">
