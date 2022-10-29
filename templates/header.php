@@ -22,7 +22,7 @@
             <a class="nav-link active" aria-current="page" href="index.html">INICIO</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="empresas.html">EMPRESAS</a>
+            <a class="nav-link active" aria-current="page" href="empresas.php">EMPRESAS</a>
           </li>
           <li class="nav-item">
             <a class="nav-link active" aria-current="page" href="sucursales.html">SUCURSALES</a>
@@ -35,6 +35,9 @@
           </li>
           <li class="nav-item">
             <a class="nav-link active" aria-current="page" href="personal.php">PERSONAL</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="proyect.php">PROYECTOS</a>
           </li>
         </ul>
       </div>
