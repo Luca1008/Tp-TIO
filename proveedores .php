@@ -15,8 +15,8 @@
         <p>Las mejores maderas ofrecidas exportadas de una isla de anda a saber donde</p>
     </article>
     <article>
-        <h2>onii-chan</h2>
-        <p>Las mejores lolis para que nuestro trabajadores se sientan comodos a la hora de trabajar</p>
+        <h2>Equipo Los Sanstres</h2>
+        <p>Nuestros proveedores de equipos de proteccion personan para q nuestros empleaodos se sientan seguros a la hora de trabajar</p>
     </article>
 
 
