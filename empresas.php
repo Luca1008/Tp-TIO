@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="style.css">
     <title>Fabrica De Construccion</title>
 </head>
-<?php include  "header.html" ?>
-
-<?php include  "footer.html" ?> 
+<?php include  "templates/header.php" ?>
+  
+<?php include  "templates/footer.php" ?> 
 </html>

@@ -12,26 +12,26 @@
 <body class="d-flex flex-column h-100">
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
-      <a class="navbar-brand" href="#">Empresa de Construccion</a>
+      <a class="navbar-brand" href="index.php">Empresa de Construccion</a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
       <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="index.html">INICIO</a>
+            <a class="nav-link active" aria-current="page" href="index.php">INICIO</a>
           </li>
           <li class="nav-item">
             <a class="nav-link active" aria-current="page" href="empresas.php">EMPRESAS</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="sucursales.html">SUCURSALES</a>
+            <a class="nav-link active" aria-current="page" href="sucursales.php">SUCURSALES</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="contacto.html">CONTACTOS</a>
+            <a class="nav-link active" aria-current="page" href="contacto.php">CONTACTOS</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link active" aria-current="page" href="about.html">ABOUT</a>
+            <a class="nav-link active" aria-current="page" href="about.php">ABOUT</a>
           </li>
           <li class="nav-item">
             <a class="nav-link active" aria-current="page" href="personal.php">PERSONAL</a>
@@ -40,6 +40,7 @@
             <a class="nav-link active" aria-current="page" href="proyect.php">PROYECTOS</a>
           </li>
         </ul>
+        <a href="login.php" class="btn btn-primary btn-block">Log in</a>
       </div>
     </div>
   </nav>

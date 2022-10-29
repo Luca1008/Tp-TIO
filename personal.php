@@ -1,6 +1,5 @@
-<?php
-require_once "templates/header.php";
-?>
+<?php include  "templates/header.php" ?>
+
 
 <h1>Nuestro personal</h1>
 <div class="container">
@@ -15,6 +14,4 @@ require_once "templates/header.php";
     <p>Iñaky feseas<p>
 </div>
 
-<?php
-require_once "templates/footer.php";
-?>
+<?php include  "templates/footer.php" ?>
