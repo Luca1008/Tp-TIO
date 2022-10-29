@@ -18,6 +18,9 @@
         <h2>Equipo Los Sanstres</h2>
         <p>Nuestros proveedores de equipos de proteccion personan para q nuestros empleaodos se sientan seguros a la hora de trabajar</p>
     </article>
+    <article>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus alias reiciendis accusantium labore magnam magni, sit enim ex atque provident, ad esse eligendi blanditiis! Pariatur praesentium vel perferendis consectetur nam?
+    </article>
 
 
 <?php include  "templates/footer.php" ?>
