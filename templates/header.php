@@ -39,6 +39,9 @@
           <li class="nav-item">
             <a class="nav-link active" aria-current="page" href="proyect.php">PROYECTOS</a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link active" aria-current="page" href="comunidad.php">COMUNIDAD </a>
+          </li>
         </ul>
         <a href="login.php" class="btn btn-primary btn-block">Log in</a>
       </div>
