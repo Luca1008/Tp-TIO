@@ -12,6 +12,10 @@
             <button type="button" class="btn btn-dark">Sé parte</button>
         </div>
     </div>
+
+    <div class="container text-center mb-3 mt-3">
+        <img src="Imagenes/comunidad-constructora.jpeg" alt="comunidad">
+    </div>
     
 
     
