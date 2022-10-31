@@ -3,7 +3,7 @@
 <div class="">
   <h3 class="text-warning"> </h3>
 
-  <div class="px-2">
+  <div class="px-2 centrar">
     <form>
       <div class="col-md-3">
         <div class="form-group">
@@ -22,7 +22,7 @@
   </div>
 
 
-  <div>
+  <div class = centrar>
     <h3 class="titulo subrayado ancho"> REDES SOCIALES </h3>
     <ol class="noiconos, elementoslista">
       <li class="redes"> <img class="iconoredes" src="./Imagenes/instagram.png"> INSTAGRAM: </li>

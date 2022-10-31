@@ -71,3 +71,9 @@ li {
     margin: 8px 2px;
     border: "1px solid red"
 }
+
+.centrar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
