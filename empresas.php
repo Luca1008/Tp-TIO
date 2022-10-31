@@ -15,25 +15,25 @@
   <div class="row">
     <div class="col-md-3 mt-4">
       <div class="card bg-light shadow">
-        <img class="card-img-top" src="./Imagenes/Empresas/PIAVE Construcciones.jpg" alt="Title">
+        <img class="card-img-top" src="Imagenes/Empresas/PIAVE Construcciones.jpg" alt="Title">
         <h5 class="card-title card-body">PIAVE CONSTRUCCIONES</h5>
       </div>
     </div>
     <div class="col-md-3 mt-4">
       <div class="card bg-light shadow">
-        <img class="card-img-top" src="./Imagenes/Empresas/Tenue.jpg" alt="Title">
+        <img class="card-img-top" src="Imagenes/Empresas/Tenue.jpg" alt="Title">
         <h5 class="card-title card-body">TENUE</h5>
       </div>
     </div>
     <div class="col-md-3 mt-4">
       <div class="card bg-light shadow">
-        <img class="card-img-top" src="./Imagenes/Empresas/Christian M Romero.png" alt="Title">
+        <img class="card-img-top" src="Imagenes/Empresas/Christian M Romero.png" alt="Title">
         <h5 class="card-title card-body">CHRISTIAN M. ROMERO</h5>
       </div>
     </div>
     <div class="col-md-3 mt-4">
       <div class="card bg-light shadow">
-        <img class="card-img-top" src="./Imagenes/Empresas/Sandoval construcciones S.R.L.jpg" alt="Title">
+        <img class="card-img-top" src="Imagenes/Empresas/Sandoval construcciones S.R.L.jpg" alt="Title">
         <h5 class="card-title card-body">SANDOVAL CONSTRUCCIONES S.R.L</h5>
       </div>
     </div>
