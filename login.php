@@ -12,7 +12,7 @@
           <!-- Email input -->
           <div class="form-outline mb-4">
             <input type="email" id="form3Example3" class="form-control" />
-            <label class="form-label" for="form3Example3">Direccion email</label>
+            <label class="form-label" for="form3Example3">Dirección email</label>
           </div>
 
           <!-- Password input -->
@@ -29,7 +29,7 @@
                 Recordar
               </label>
             </div>
-            <a href="" class="text-body">Olvido su contraseña?</a>
+            <a href="" class="text-body">Olvidó su contraseña?</a>
           </div>
 
           <div class="text-center text-lg-start mt-4 pt-2">
