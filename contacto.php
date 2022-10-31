@@ -1,7 +1,7 @@
 <?php include  "templates/header.php" ?>
 <!--CONTACT PAGE-->
 <div class="">
-  <h3 class="text-warning">CONTACTO</h3>
+  <h3 class="text-warning"> </h3>
 
   <div class="px-2">
     <form>
