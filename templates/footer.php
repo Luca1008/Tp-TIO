@@ -9,6 +9,7 @@
         <li class="nav-item"><a href="about.php" class="nav-link px-2 text-muted">About</a></li>
         <li class="nav-item"><a href="personal.php" class="nav-link px-2 text-muted">Personal</a></li>
         <li class="nav-item"><a href="proyect.php" class="nav-link px-2 text-muted">Proyectos</a></li>
+        <li class="nav-item"><a href="proyect.php" class="nav-link px-2 text-muted">Comunidad</a></li>
     </ul>
     <p class="text-center text-muted">© 2022 Fabrica de Construccion</p>
 </footer>
