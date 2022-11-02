@@ -33,7 +33,13 @@
     </div>
   </div>
 </div>
-echo "Puedes acercarte  a cualquiera de nuestras sucursales para realizar tu consulta. 
-O sino puedes contactar con nosotros por nuestras redes sociales estamos a tu disposicion!"
-?>
+<div>
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Obcaecati quaerat, velit magni delectus repudiandae molestias vitae possimus fuga deleniti soluta eos cum expedita tempore sunt a adipisci. Veniam, iste? Voluptatem!
+</div>
+<div>
+  Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas laborum labore, molestias perspiciatis quidem necessitatibus. Alias animi facilis dolore velit, autem fugiat assumenda, aspernatur nisi, itaque quam facere incidunt ipsum.
+</div>
+<div>
+  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptate beatae repellat, maxime asperiores praesentium aliquid unde eius enim? Quam suscipit error ad quis dolor velit nam aliquam aperiam dicta nulla.
+</div>
 <?php include  "templates/footer.php" ?>
