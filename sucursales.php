@@ -33,7 +33,7 @@
     </div>
   </div>
 </div>
-echo "Puedes acercarte  a cualquiera de nuestras sucursales para realizar tu consulta. 
-O sino puedes contactar con nosotros por nuestras redes sociales estamos a tu disposicion!"
-?>
+<p>
+  Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero quisquam enim officiis ipsum repellat necessitatibus at deserunt neque. Necessitatibus earum ratione voluptate aperiam ullam facilis minima id molestias! Fugiat, totam?
+</p>
 <?php include  "templates/footer.php" ?>
