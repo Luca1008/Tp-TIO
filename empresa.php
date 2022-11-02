@@ -14,6 +14,8 @@
 
 <h1> Acerca de la Empresa</h1>
 
+<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Numquam quia, sed doloribus hic ratione veniam deserunt eius officia. Aut rerum impedit illum maiores delectus eum voluptatem saepe repellat magni vel?</p>
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod, delectus deserunt cupiditate sit alias laboriosam praesentium nisi perferendis, distinctio voluptatum iusto quae eaque corrupti voluptate consequuntur modi suscipit provident fugiat!</p>
 
 <h2>Quienes somos</h2>
 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates inventore veniam, fuga distinctio, mollitia nihil facilis, commodi minus voluptatibus dicta ex error nisi dolorem harum temporibus aspernatur ducimus culpa debitis?</p>
