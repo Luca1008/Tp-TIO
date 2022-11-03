@@ -22,13 +22,13 @@
     <div class="col-md-3 mt-4">
       <div class="card bg-light shadow">
         <img class="card-img-top" src="Imagenes/Empresas/Tenue.jpg" alt="Title">
-        <h5 class="card-title card-body">TENUE</h5>
+        <h5 class="card-title card-body">TENUE CONSTRUCCIONES</h5>
       </div>
     </div>
     <div class="col-md-3 mt-4">
       <div class="card bg-light shadow">
         <img class="card-img-top" src="Imagenes/Empresas/Christian M Romero.png" alt="Title">
-        <h5 class="card-title card-body">CHRISTIAN M. ROMERO</h5>
+        <h5 class="card-title card-body">CHRISTIAN M. ROMERO CONSTRUCCIONES</h5>
       </div>
     </div>
     <div class="col-md-3 mt-4">
@@ -41,5 +41,4 @@
   </div>
 </div>
 <?php include  "templates/footer.php" ?>
-
 </html>
